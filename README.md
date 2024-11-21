@@ -8,6 +8,15 @@ I am a passionate machine learning specialist,Mathematician,Statistician, softwa
 - **Engineering**: Building data pipelines and working with advanced tools and technologies in the engineering domain.
 
 Check out my repositories to explore my projects in these areas.
+## Research Publications
+
+I have contributed to several academic and industry-related research. Here are my published works and research profiles:
+
+- [ResearchGate: Idriss BADO](https://www.researchgate.net/profile/Idriss-Bado)  
+- [IJPSAT Journal - Analysis of the Goldbach Conjecture and Primo-Raduis](https://ijpsat.org/index.php/ijpsat/article/view/795)  
+- [Google Scholar - Citation for Advanced Number Theory Work](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CP3DJqYAAAAJ&citation_for_view=CP3DJqYAAAAJ:d1gkVwhDpl0C)
+
+Feel free to explore my work, and let's connect!
 
 - 📫 How to reach me olivier.bado@ensea.edu.ci
 
