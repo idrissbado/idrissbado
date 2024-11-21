@@ -1,6 +1,6 @@
 ## About Me
 
-I am a passionate machine learning specialist, software engineer, and expert in risk management and financial modeling. My expertise includes:
+I am a passionate machine learning specialist,Mathematician,Statistician, software engineer, and expert in risk management and financial modeling. My expertise includes:
 - **Machine Learning**: Developing predictive models and applying ML techniques to real-world problems.
 - **Software Engineering**: Building scalable and efficient systems.
 - **Risk Management & Financial Modeling**: Specializing in stress testing, backtesting, and quantitative finance.
