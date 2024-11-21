@@ -18,8 +18,7 @@ I have contributed to several academic and industry-related research. Here are m
 
 Feel free to explore my work, and let's connect!
 
-- 📫 How to reach me olivier.bado@ensea.edu.ci
-
+- 📫 How to reach me idrissbadoolivier@gmail.com
 <!---
 idrissbado/idrissbado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
