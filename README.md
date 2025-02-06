@@ -79,7 +79,7 @@ I have contributed to several academic and industry-related research works. Here
 ## 🌐 Let's Connect!
 
 - 📫 **Email**: [idrissbadoolivier@gmail.com](mailto:idrissbadoolivier@gmail.com)
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/idriss-olivier-bado-160488143/](#) 
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/idriss-olivier-bado-160488143/]
 - 🐦 **Twitter**: [idrissbado](#)
 
 ---
