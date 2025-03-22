@@ -9,7 +9,11 @@ I am a passionate **Machine Learning Specialist**, **Mathematician**, **Statisti
 - **Engineering**: Building data pipelines and working with advanced tools and technologies.
 
 ---
+# My Awesome Project
 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=idrissbado&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+Welcome to my project! Here are some of my GitHub achievements:
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
